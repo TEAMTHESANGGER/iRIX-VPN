@@ -4,7 +4,7 @@
 </p>
 <p align="center" style="font-size:20px"><b>iRIX VPN</b></p>
 <p align="center" 
-style="font-size:14px">**iRIX VPN** Multiple SSH-Proxy support with SNI, rotation, enchance, random payload.
+style="font-size:14px">Multiple SSH-Proxy support with SNI, rotation, enchance, random payload.
 </p>
 
 <p align="center">
