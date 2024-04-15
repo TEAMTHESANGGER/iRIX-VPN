@@ -39,3 +39,9 @@ Mengatasi pembatasan geografis: iRIX VPN memungkinkan Anda melewati pembatasan g
 - Noobz VPN
 - THESANGGER VPN
 - MATERIAL 3
+
+# Third Party Libraries Reference: 
+https://github.com/TEAMTHESANGGER/TEAM-THESANGGER
+https://github.com/jenkinsci/trilead-ssh2 
+https://github.com/madeye/sshtunnel 
+https://github.com/shadowsocks/badvpn
