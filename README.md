@@ -43,6 +43,10 @@ Mengatasi pembatasan geografis: iRIX VPN memungkinkan Anda melewati pembatasan g
 ## 👇 Downloads
 [<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="65">](https://github.com/TEAMTHESANGGER/iRIX-VPN/releases/latest)
 
+OR
+
+[![Website](https://img.shields.io/badge/Website-TEAMTHESANGGER-green?labelColor=White&style=social&logo=blogger&link=www.bukanmastah.eu.org)](www.bukanmastah.eu.org)
+
 ## Development
 - Rifky Thesangger
 - Nagisa Thesangger
