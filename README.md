@@ -1,4 +1,4 @@
-# iRIX-VPN
+## iRIX-VPN
 <p align="center">
   <a href=""><img width="200" height="200" src="https://github.com/TEAMTHESANGGER/iRIX-VPN/blob/main/src/icon.png"></a>
 </p>
@@ -19,7 +19,7 @@ Selain itu, iRIX VPN menyediakan opsi untuk memanfaatkan muatan khusus acak, men
 
 Baik Anda mengkhawatirkan privasi, menerobos pembatasan geografis, atau menjaga informasi sensitif, iRIX VPN memberdayakan Anda dengan alat untuk mengendalikan pengalaman online Anda. Antarmuka kami yang ramah pengguna memastikan navigasi dan pengaturan yang mudah, sehingga dapat diakses oleh pengguna pemula dan berpengalaman.
 
-# Fitur Utama:
+## Fitur Utama:
 - Dukungan Beberapa SSH-Proxy: Terhubung ke beberapa server proxy secara bersamaan untuk meningkatkan keamanan dan fleksibilitas.
 - Integrasi Indikasi Nama Server (SNI): Akses situs web terenkripsi SSL/TLS dengan mulus tanpa gangguan.
 - Kemampuan Rotasi: Beralih secara dinamis antar server proxy untuk mengoptimalkan kinerja dan anonimitas.
@@ -40,17 +40,20 @@ Akses ke konten yang dibatasi: Jika Anda tinggal di wilayah di mana situs web at
 
 Mengatasi pembatasan geografis: iRIX VPN memungkinkan Anda melewati pembatasan geografis yang diberlakukan pada platform streaming dan aplikasi lain, sehingga memberi Anda akses tidak terbatas.
 
-# Development
+## 👇 Downloads
+[<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="65">](https://github.com/TEAMTHESANGGER/iRIX-VPN/releases/latest)
+
+## Development
 - Rifky Thesangger
 - Nagisa Thesangger
 
-# Reference
+## Reference
 - Dark Tunnel
 - Noobz VPN
 - THESANGGER VPN
 - MATERIAL 3
 
-# Third Party Libraries Reference: 
+## Third Party Libraries Reference: 
 - https://github.com/TEAMTHESANGGER/TEAM-THESANGGER
 - https://github.com/jenkinsci/trilead-ssh2 
 - https://github.com/madeye/sshtunnel 
