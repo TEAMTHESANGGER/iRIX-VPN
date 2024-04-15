@@ -1,5 +1,15 @@
 # iRIX-VPN
-iRIX VPN: Multiple SSH-Proxy support with SNI, rotation, enchance, random payload.
+<p align="center">
+  <a href=""><img width="200" height="200" src="https://github.com/TEAMTHESANGGER/iRIX-VPN/blob/main/src/icon.png"></a>
+</p>
+<p align="center" style="font-size:20px"><b>iRIX VPN</b></p>
+<p align="center" 
+style="font-size:14px">**iRIX VPN** Multiple SSH-Proxy support with SNI, rotation, enchance, random payload.
+</p>
+
+<p align="center">
+  <a href="https://www.android.com"><img src="https://forthebadge.com/images/badges/built-for-android.svg"></a> <a href="https://www.github.com/fakeyatogod/"><img src="https://forthebadge.com/images/badges/built-with-love.svg"/></a>
+</p>
 
 iRIX VPN menawarkan solusi serbaguna untuk penjelajahan internet yang aman. Dengan dukungan beberapa koneksi SSH-Proxy, Anda dapat menikmati peningkatan privasi dan enkripsi saat mengakses konten online. VPN kami dengan mulus mengintegrasikan teknologi Indikasi Nama Server (SNI), memastikan kelancaran akses ke situs web dengan enkripsi SSL/TLS.
 
